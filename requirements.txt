@@ -3,5 +3,5 @@ requests
 Pillow
 beautifulsoup4
 lxml
-rembg==2.0.56  # neprivaloma, fonui šalinti
+rembg==2.0.56
 
